@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # dario-tortorici
+  linkedin         : dario-tortorici
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -131,7 +131,9 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - twitter: https://x.com/TortoDario
+    - linkedin: https://www.linkedin.com/in/dario-tortorici
 
 
 # Analytics
